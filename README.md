@@ -7,18 +7,22 @@ The AI Financial Management System (AIFMS) is made as a graduation project by tw
 
 # Home page
 Here is where all the magic happens, where the user can add, delete, and see expenses
+
 ![Screenshot_small 20250414_162442](https://github.com/user-attachments/assets/fe9469b2-80c5-4e42-9b91-d464602bf7db)
 
 # Financial report
 This is the report that provides all the financial details with a chart that helps the user to give an overview of the user`s financial situation
+
 ![Screenshot_20250414_162448](https://github.com/user-attachments/assets/2efc1a24-8557-4711-a957-07c3f0edd8c5)
 
 ![Screenshot_20250414_162506](https://github.com/user-attachments/assets/a0723cca-0c49-4bf0-837b-1e352a535a87)
 
 # AI assistant
 Here where the user can chat with a financial AI model
+
 ![Screenshot_20250414_162906](https://github.com/user-attachments/assets/9df4f41f-089f-49ac-aad2-bc26803f780a)
 
 # Settings
 This is the settings drawer that provides some customization and an overview of how to use the application and how it`s made
+
 ![Screenshot_20250414_162932](https://github.com/user-attachments/assets/467f1b95-1009-4592-b495-20b7bc9f73c7)
